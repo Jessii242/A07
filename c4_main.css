@@ -1,0 +1,85 @@
+body h2{
+    font-size: 170%;
+    color: #800000;
+}
+
+body h3{
+    font-size: 130%;
+    font-style: italic;
+}
+
+header img{
+    float:left;
+}
+
+a{
+    font-style: normal;
+}
+a:hover{
+    font-style: italic;
+}
+
+footer p{
+    text-align: center;
+}
+
+.year{
+    text-shadow: 1px 2px #800000;
+    color: #800000;
+}
+
+body{
+    width: 600px;
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-right: auto;
+    margin-left: auto;
+    border: #931420;
+    border-width: 3px;
+    border-style: solid;
+}
+
+html{
+    background-color:#fffded;
+}
+
+header{
+    background: linear-gradient(30deg,#f6bb73 0%,#f6bb73 30%,white 50%,#f6bb73 80%,#f6bb73 100%);
+    border-bottom: #931420;
+    border-bottom-width: 3px;
+    border-bottom-style: solid;
+    padding-top: 1.5px;
+    padding-bottom: 2px;
+    padding-right: 30px;
+    padding-left: 30px;
+}
+
+main h1{
+    border-bottom: #931420;
+    border-bottom-width: 3px;
+    border-bottom-style: solid;
+    border-top: #931420;
+    border-top-width: 3px;
+    border-top-style: solid;
+
+}
+
+main{
+    padding-right: 30px;
+    padding-left: 30px;
+}
+
+footer{
+    border-top: #931420;
+    border-top-width: 3px;
+    border-top-style: solid;
+    border-bottom: #931420;
+    border-bottom-width: 3px;
+    border-bottom-style: solid;
+    background-color: #931420;
+    color: white;
+}
+
+blockquote{
+    font-style: italic;
+}
